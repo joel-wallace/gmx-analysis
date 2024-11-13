@@ -1,1 +1,4 @@
-# gmx-analysis
+# Gromacs Trajectory Analysis
+
+## Required modules:
+- numpy
